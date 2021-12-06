@@ -1,3 +1,6 @@
+//
+//  Created by adbaibi
+
 #include <unistd.h>
 #include "ft_print_numbers.h"
 void ft_print_numbers()

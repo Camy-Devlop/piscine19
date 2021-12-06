@@ -1,4 +1,5 @@
-
+//
+//  Created by adbaibi
 #include <unistd.h>
 #include "ft_is_negative.h"
 void ft_is_negative(int n)
