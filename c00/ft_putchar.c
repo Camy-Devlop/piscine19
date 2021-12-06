@@ -1,1 +1,8 @@
-/Users/spart/Desktop/Programme/C/libft/libft/src/ft_putchar.c
+//
+//  Created by adbaibi
+#include <unistd.h>
+
+void ft_putchar(char c)
+{	 
+     write(1,&c,1);
+}
