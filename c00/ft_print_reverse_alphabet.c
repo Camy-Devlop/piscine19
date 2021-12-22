@@ -1,6 +1,8 @@
+//	ft_print_reverse_alphabet.c
+//  libft02
 //
-//  Created by adbaibi
-
+//  Created by Adbaibi on 22/12/2021.
+//
 #include <unistd.h>
 #include "ft_print_reverse_alphabet.h"
 void ft_print_reverse_alphabet(void)

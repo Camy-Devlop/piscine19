@@ -1,6 +1,8 @@
-
+//  ft_print_comb.
+//  libft02
 //
-//  Created by adbaibi
+//  Created by Adbaibi on 22/12/2021.
+//
 #include <unistd.h>
 #include <stdio.h>
 #include "ft_print_comb.h"

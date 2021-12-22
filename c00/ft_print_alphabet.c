@@ -1,5 +1,8 @@
+//	ft_print_alphabet
+//  libft02
 //
-//  Created by adbaibi
+//  Created by Adbaibi on 22/12/2021.
+//
 #include <unistd.h>
 #include "ft_print_alphabet.h"
 void ft_print_alphabet(void)

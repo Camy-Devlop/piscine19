@@ -1,5 +1,9 @@
+//  ft_putchar
+//  libft02
 //
-//  Created by adbaibi
+//  Created by Adbaibi on 22/12/2021.
+//
+
 #include <unistd.h>
 
 void ft_putchar(char c)
